@@ -1,3 +1,5 @@
+/* Task 3 */
+
 var ftime = process.argv[2];
 var stime = process.argv[3];
 

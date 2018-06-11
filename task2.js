@@ -1,3 +1,5 @@
+/* Task 2 */
+
 var string = process.argv[2];
 var offset = process.argv[3];
 

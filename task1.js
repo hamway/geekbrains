@@ -1,3 +1,5 @@
+/* Task 1 */
+
 n = parseInt(process.argv[2]);
 e = parseInt(process.argv[3]);
 
